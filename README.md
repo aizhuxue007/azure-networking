@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://imgs.search.brave.com/BmgcadHPJzQiahbHTaoxabdQ257VNlp9db9KLkuHwQk/rs:fit:830:468:1/g:ce/aHR0cHM6Ly9pbmZv/c2VjYWRkaWN0cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDYvV2lyZXNo/YXJrX3NjcmVlbnNo/b3QtODMweDQ2OC5w/bmc]" alt="Wireshark in action"/>
+<img src="https://imgs.search.brave.com/BmgcadHPJzQiahbHTaoxabdQ257VNlp9db9KLkuHwQk/rs:fit:830:468:1/g:ce/aHR0cHM6Ly9pbmZv/c2VjYWRkaWN0cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDYvV2lyZXNo/YXJrX3NjcmVlbnNo/b3QtODMweDQ2OC5w/bmc" alt="Wireshark in action"/>
 </p>
 
 <h1>Networking with Azure and Wireshark</h1>
